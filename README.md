@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+
+<img src = "https://github.com/user-attachments/assets/e123e806-787a-42e4-9412-642d31b0a9ba" width = 200px height = 600px>
+
 <!--
 **fossClu/fossClu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
